@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Slideshow App</string>
+    <string name="caption_1">Caption for Image 1</string>
+    <string name="caption_2">Caption for Image 2</string>
+    <string name="caption_3">Caption for Image 3</string>
+    <string name="caption_4">Caption for Image 4</string>
+    <string name="caption_5">Caption for Image 5</string>
+    <string name="caption_6">Caption for Image 6</string>
+    <string name="enter_picture_number">Enter picture number</string>
+    <string name="go_button">Go</string>
+    <string name="back_button">Back</string>
+    <string name="next_button">Next</string>
+    <string name="invalid_number">Invalid number! Enter 1 to 6</string>
+</resources>
